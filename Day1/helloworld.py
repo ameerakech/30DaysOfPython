@@ -6,6 +6,14 @@ print(3 ** 2)
 print(3 % 2)
 print(3 // 2)
 
+name = "Victoria"
+family_name = "Moses"
+country = "SOuth Sudan"
+enjoyment = "I enjoy 30 days of Python"
+print(name)
+print(family_name)
+print(country)
+print(enjoyment)
 
 print(type(10))
 print(type(3.14))

@@ -9,8 +9,7 @@ year = 2025
 is_kenyan = False
 is_light_on = True
 
-#declaring multiples variables in one line 
-#first_name, last_name,full_name,age,country, city, age, year, is_kenyan, is_light_on = 'Ameer', 'Akech', 'South Sudan', 'Juba', 19, False, True
+
 
 #Exercise 2
 print(type('Ameer'))
